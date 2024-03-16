@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/q5Mh5RX/C-Programming.png",
+    "title": "Introduction to C Programming",
+    "para": "excellent heat oxygen condition twelve tree stream hunt allow depth apart obtain careful problem magic popular flew no using environment too several result south",
+    "price": 992,
+    "credit": 1
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/T0cNyNX/Algorithm.png",
+    "title": "Introduction to Algorithms",
+    "para": "weigh generally taste blew window field position various society inside respect combination change community failed scene monkey broad positive therefore rose powerful construction find",
+    "price": 525,
+    "credit": 2
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/2Z8pSmT/Cplusplus.webp",
+    "title": "Introduction to C++ for DSA",
+    "para": "means example rapidly becoming value lonely mix daughter night leg pictured other advice wire effort shade feed green during discovery ought leave pie satellites",
+    "price": 435,
+    "credit": 4
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/qdfD68x/Data-Structures.jpg",
+    "title": "Basic Data Structures",
+    "para": "rather complex after child refused expression secret cook year family met world structure group balance tired parallel terrible least effect war deal hidden rest",
+    "price": 291,
+    "credit": 8
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/D5PXSnr/Python-OOP.jpg",
+    "title": "Introduction to OOP Python",
+    "para": "slip run lamp dangerous author purple anyone many deal value pan at definition relationship with swimming elephant farther cattle common function pen create raw",
+    "price": 252,
+    "credit": 5
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/58DD2sp/Software-Engineering.jpg",
+    "title": "Software Engineering",
+    "para": "enjoy using fifty dirty excitement pot themselves support deeply truth floor lake matter feet count inside egg nose force tea element firm twenty combination",
+    "price": 272,
+    "credit": 6
+  },
+  {
+    "id": 7,
+    "img": "https://i.ibb.co/D9pG3cQ/Amazon-AWS-1.png",
+    "title": "AWS Cloud Computing",
+    "para": "sale press facing grew plates matter say first cannot simplest production inch dress trace won friend was sheet animal pull step swing chance fight",
+    "price": 930,
+    "credit": 5
+  },
+  {
+    "id": 8,
+    "img": "https://i.ibb.co/z85nSwp/MySQL.jpg",
+    "title": "Database (MySQL)",
+    "para": "arrive thy men graph all put bread world fourth quiet sale moon down gate women there railroad town leather explanation sets cover volume strike",
+    "price": 1500,
+    "credit": 6
+  },
+  {
+    "id": 9,
+    "img": "https://i.ibb.co/k8yLgGP/Java.jpg",
+    "title": "Introduction to JAVA language",
+    "para": "longer atom percent both remember column lovely atmosphere grade dirty triangle score were hardly thick tales screen supper tube circus able...",
+    "price": 683,
+    "credit": 9
+  }
+]
